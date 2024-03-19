@@ -1,4 +1,51 @@
-a {
+body{
+    background-color:lightgreen;
+    text-align: center;
+}
+
+h1{
+    text-align:center;
+    color:red;
+}
+.image{
     display:flex;
-    justify-content: space-evenly;
-};
+    text-align:center;
+    margin:auto;
+    color:red;
+    margin-bottom:5px;
+}
+.name{
+    display:flex;
+    text-align:center;
+    margin:auto;
+    color:red;
+    margin-bottom:5px;
+}
+.sport{
+    display:flex;
+    text-align:center;
+    margin:auto;
+    color:red;
+    margin-bottom:5px;
+}
+.team{
+    display:flex;
+    text-align:center;
+    margin:auto;
+    color:red;
+    margin-bottom:5px;
+}
+
+
+  }
+button{
+   display:flex;
+   margin:auto; 
+}
+
+.result{
+    text-align:center;
+}
+img{
+    width:200px
+}
